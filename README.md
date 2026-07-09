@@ -158,9 +158,6 @@ The other half is understanding **what should actually be built**.
 Most of my production work lives in private repositories, but I actively
 build, experiment, and ship across product engineering and AI systems.
 
-```{=html}
-<!-- Add GitHub stats here later if you want them -->
-```
 
 ------------------------------------------------------------------------
 
